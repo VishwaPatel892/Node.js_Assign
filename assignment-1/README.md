@@ -186,19 +186,19 @@ http://localhost:5000
 
 ## 🌍 Live API (Render)
 
-👉 https://node-js-assignment-etp3.onrender.com/students
+👉 https://node-js-assignment-1-ojkr.onrender.com/students
 
 ---
 
 ## 📮 Postman Documentation
 
-👉 https://documenter.getpostman.com/view/50839388/2sBXcGCe5G
+👉 https://documenter.getpostman.com/view/50839289/2sBXcGDK7a
 
 ---
 
 ## 💻 GitHub Repository
 
-👉 https://github.com/TajaparaDhruva/node.js_assignment/tree/main/01
+👉 https://github.com/VishwaPatel892/Node.js_Assign/tree/main/assignment-1
 
 ---
 
