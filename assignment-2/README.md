@@ -149,7 +149,7 @@ Use Postman to test all routes.
 
 ## 🌍 Live API (Render)
 
-👉 https://node-js-assignment-2-1.onrender.com/products
+👉https://node-js-assignment-2-2.onrender.com/products
 
 ---
 
